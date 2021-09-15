@@ -1,0 +1,37 @@
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\P IMC\bin\Debug\net5.0-windows\P IMC.exe
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\P IMC\bin\Debug\net5.0-windows\P IMC.deps.json
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\P IMC\bin\Debug\net5.0-windows\P IMC.runtimeconfig.json
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\P IMC\bin\Debug\net5.0-windows\P IMC.runtimeconfig.dev.json
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\P IMC\bin\Debug\net5.0-windows\P IMC.dll
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\P IMC\bin\Debug\net5.0-windows\ref\P IMC.dll
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\P IMC\bin\Debug\net5.0-windows\P IMC.pdb
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\P IMC\obj\Debug\net5.0-windows\P IMC.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\P IMC\obj\Debug\net5.0-windows\P_IMC.Form1.resources
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\P IMC\obj\Debug\net5.0-windows\P IMC.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\P IMC\obj\Debug\net5.0-windows\P IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\P IMC\obj\Debug\net5.0-windows\P IMC.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\P IMC\obj\Debug\net5.0-windows\P IMC.AssemblyInfo.cs
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\P IMC\obj\Debug\net5.0-windows\P IMC.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\P IMC\obj\Debug\net5.0-windows\P IMC.dll
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\P IMC\obj\Debug\net5.0-windows\ref\P IMC.dll
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\P IMC\obj\Debug\net5.0-windows\P IMC.pdb
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\P IMC\obj\Debug\net5.0-windows\P IMC.genruntimeconfig.cache
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\bin\Debug\net5.0-windows\P IMC.exe
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\bin\Debug\net5.0-windows\P IMC.deps.json
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\bin\Debug\net5.0-windows\P IMC.runtimeconfig.json
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\bin\Debug\net5.0-windows\P IMC.runtimeconfig.dev.json
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\bin\Debug\net5.0-windows\P IMC.dll
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\bin\Debug\net5.0-windows\ref\P IMC.dll
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\bin\Debug\net5.0-windows\P IMC.pdb
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\obj\Debug\net5.0-windows\P IMC.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\obj\Debug\net5.0-windows\P_IMC.Form1.resources
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\obj\Debug\net5.0-windows\P_IMC.Properties.Resources.resources
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\obj\Debug\net5.0-windows\P IMC.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\obj\Debug\net5.0-windows\P IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\obj\Debug\net5.0-windows\P IMC.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\obj\Debug\net5.0-windows\P IMC.AssemblyInfo.cs
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\obj\Debug\net5.0-windows\P IMC.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\obj\Debug\net5.0-windows\P IMC.dll
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\obj\Debug\net5.0-windows\ref\P IMC.dll
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\obj\Debug\net5.0-windows\P IMC.pdb
+C:\Users\user\Desktop\Faculdade\2ºSemestre\LP2\Exercicio_entregar\P_IMC\P IMC\obj\Debug\net5.0-windows\P IMC.genruntimeconfig.cache

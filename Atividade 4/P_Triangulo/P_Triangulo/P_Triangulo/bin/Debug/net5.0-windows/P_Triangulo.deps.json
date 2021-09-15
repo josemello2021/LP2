@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P_Triangulo/1.0.0": {
+        "runtime": {
+          "P_Triangulo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P_Triangulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
